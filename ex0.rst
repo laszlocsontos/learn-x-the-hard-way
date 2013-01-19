@@ -1,6 +1,6 @@
 {% import "macros/ork.jinja" as ork with context %}
 Exercise 0: The Setup
-=====================
+*********************
 
 This is how you setup your computer to work through this book.  Here's an example of including
 some code:

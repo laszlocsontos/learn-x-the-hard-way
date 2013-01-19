@@ -1,7 +1,6 @@
 {% import "macros/ork.jinja" as ork with context %}
-{% import "macros/ork.jinja" as ork with context %}
 Learn X The Hard Way
-======================
+*******************
 
 
 Table Of Contents
